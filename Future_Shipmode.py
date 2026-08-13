@@ -8,10 +8,7 @@ import pandas as pd
 # Configuration
 # ============================================================
 
-BASE_PATH = (
-    r"//sgsind0nsifsv01a/IMAC Data/"
-    r"IMAC Senior or Teams/Europe & Other Asia Team/VN01/"
-)
+BASE_PATH = <VN01 network folder>
 
 FUTURE_SHIPMODE_FOLDER = os.path.join(
     BASE_PATH,

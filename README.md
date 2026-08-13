@@ -88,33 +88,6 @@ The automation:
 
 ![VN01 Future Ship Mode Workflow](images/workflow.png)
 
-```text
-VN01 On-Hand
-      +
-Future Ship Mode
-      │
-      ▼
-Validate Input
-      │
-      ▼
-Standardize Customer Part.
-      │
-      ▼
-Merge Data
-      │
-      ▼
-Resolve PGr
-      │
-      ▼
-Filter PGr = "U*"
-      │
-      ▼
-Generate Report
-      │
-      ▼
-Generate Buyer List
-```
-
 ---
 
 # Data Processing

@@ -172,7 +172,7 @@ The final consolidated report is automatically saved to the designated VN01 serv
 
 The complete automation workflow is shown below.
 
-![VN01 Future Ship Mode Workflow](docs/images/workflow.png)
+![VN01 Future Ship Mode Workflow](images/workflow.png)
 
 ### Workflow Steps
 
@@ -222,7 +222,7 @@ The final report is saved to the designated server folder.
 
 The solution uses Python as the data-processing layer between the source Excel reports and the final Purchasing output.
 
-![VN01 Future Ship Mode Architecture](docs/images/architecture.png)
+![VN01 Future Ship Mode Architecture](images/architecture.png)
 
 ## Architecture Components
 
@@ -270,7 +270,7 @@ This keeps the current automation focused on the Excel data-processing requireme
 
 The original process required manual handling of the VN01 On-Hand and Future Ship Mode reports before producing the final Purchasing output.
 
-![Before Process](docs/images/before-process.png)
+![Before Process](images/before-process.png)
 
 ---
 
@@ -278,7 +278,7 @@ The original process required manual handling of the VN01 On-Hand and Future Shi
 
 The Python automation performs the matching, Purchasing Group filtering, and report generation automatically.
 
-![After Process](docs/images/after-process.png)
+![After Process](images/after-process.png)
 
 ---
 

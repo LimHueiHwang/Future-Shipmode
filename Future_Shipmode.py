@@ -85,7 +85,7 @@ def get_output_path(file_name):
     return os.path.join(
         FUTURE_SHIPMODE_FOLDER,
         current_week,
-        f"JB {file_name}_NEW.xlsx",
+        f"JB {file_name}.xlsx",
     )
 
 

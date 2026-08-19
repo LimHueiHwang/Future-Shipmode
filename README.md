@@ -86,7 +86,7 @@ The automation:
 
 # Workflow
 
-![VN01 Future Ship Mode Workflow](images/workflow.png)
+![VN01 Future Ship Mode Workflow](docs/diagrams/workflow.png)
 
 ---
 
@@ -114,7 +114,7 @@ are included in the final output.
 
 # Architecture
 
-![VN01 Future Ship Mode Architecture](images/architecture.png)
+![VN01 Future Ship Mode Architecture](docs/diagrams/architecture.png)
 
 | Component        | Responsibility                        |
 | ---------------- | ------------------------------------- |
